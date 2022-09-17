@@ -8,3 +8,4 @@ def merge(items1, items2):
         else:
             items3.append(items2[index2])
             index2 += 1
+print('hello world')
